@@ -1,7 +1,9 @@
 ## **Dikembangkan oleh**
 
 **Malvin Putra Rismahardian**
+
 NRP: 5027231048
+
 Mata Kuliah: **Pemrograman Mobile**
 
 # **VynnPocket – Aplikasi Pengingat dan Pengelola Tabungan Harian**
